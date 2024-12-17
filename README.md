@@ -1,1 +1,1 @@
-# FT-Classifier-for-Model-Mering
+# FT-Classifier-for-Model-Merging
